@@ -1,5 +1,14 @@
 # 📦 Order Processing System 
 
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Platform](https://img.shields.io/badge/Platform-Console-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+![Last Commit](https://img.shields.io/github/last-commit/igorpolvora/Order)
+![Repo Size](https://img.shields.io/github/repo-size/igorpolvora/Order)
+![Top Language](https://img.shields.io/github/languages/top/igorpolvora/Order)
+
 ## 📌 Project Overview
 
 **Order** is a Java console application that simulates a simple order processing system.
